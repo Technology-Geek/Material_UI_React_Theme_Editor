@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "Material UI Theme Style Editor",
   "author": "Technology-Geek",
+  "homepage": "https://github.com/Technology-Geek.github.io/Material_UI_React_Theme_Editor",
   "repository": {
     "type": "git",
-    "url": "aa.com"
+    "url": "https://github.com/Technology-Geek/Material_UI_React_Theme_Editor"
   },
   "license": "MIT",
   "dependencies": {
@@ -19,7 +20,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
@@ -32,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }

@@ -8,6 +8,7 @@ Material UI responsive design with ability to edit theme properties and RTL supp
   - [Table Of Contents](#table-of-contents)
   - [Install Dependencies](#install-dependencies)
   - [Quick Start](#quick-start)
+  - [Demo](#demo)
   - [Screenshot](#screenshot)
   - [App Info](#app-info)
     - [Author](#author)
@@ -25,6 +26,10 @@ npm install
 ```bash
 npm start
 ```
+
+## Demo
+
+[Demo](https://github.com/Technology-Geek.github.io/Material_UI_React_Theme_Editor)
 
 ## Screenshot
 
