@@ -29,7 +29,7 @@ npm start
 
 ## Demo
 
-[Demo](https://github.com/Technology-Geek.github.io/Material_UI_React_Theme_Editor)
+[Demo](https://technology-geek.github.io/Material_UI_React_Theme_Editor/)
 
 ## Screenshot
 
