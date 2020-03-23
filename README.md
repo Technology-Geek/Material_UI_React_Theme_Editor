@@ -33,7 +33,7 @@ npm start
 
 ## Screenshot
 
-![](screenshot.png)
+![screenshot.png](screenshot.png)
 
 ## App Info
 
